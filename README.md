@@ -6,6 +6,15 @@ Tilgængelighed er til for at hjælpe brugere med nedsat evne at navigere og bru
 
 Kan du forklare hvorfor der skal være en `alt`-attribut på et `img`-tag? Skriv dit svar herunder.
 
+Mit svar:
+
+> Grunden til at der skal være en alt-attribut på et img-tag, kan være flere ting.
+> En af tingene er brugervenlighed. Hvis man er skærmlæser og der er en alt-sttribut på et img-tag, kan de derved høre en beskrivelse af hvad der er på billedet eller hvad det skal forestille og derved skabe mere context.
+> På knapper ville man skrive en alt tekst der siger "tryk for hjælp", istedet for at beskrive billedet, da det ikke hjælper i denne context.
+
+> Det kan også være til at hjælpe søgemaskiner f.eks Google, til billedsøgning da det giver dem vigtig information om billedet.
+
+
 ## WAI-ARIA
 
 > WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. Currently certain functionality used in Web sites is not available to some users with disabilities, especially people who rely on screen readers and people who cannot use a mouse. WAI-ARIA addresses these accessibility challenges, for example, by defining new ways for functionality to be provided to assistive technology. With WAI-ARIA, developers can make advanced Web applications accessible and usable to people with disabilities.
